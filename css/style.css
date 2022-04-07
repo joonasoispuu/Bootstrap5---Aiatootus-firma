@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+   }
+
+.carousel-item img {
+    height: 70vh;
+    object-fit: cover;
+}
+
+.navbar-brand{
+    margin-left: 1%;
+}
+
+.btn{
+    background-color: #1a1818;
+}
+
+.carousel-control-prev {
+    left: 10%;
+}
+
+#services{
+    margin-top: 100%;
+    padding-bottom: 25%;
+}
+
+.carousel-control-next {
+    right: 10%;
+}
+
+.d-flex{
+    margin-right: 2%;
+}
+
+.marketing {
+    text-align: center;
+}
+
+.marketing h2 {
+    font-size: 3rem;
+    margin-bottom: 6rem;
+    margin-top: 2rem;
+}
+
+.copyright{
+    text-align: center;
+}
